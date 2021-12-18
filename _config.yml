@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Yagop's Dev Log"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yuna"
+title_separator          : "|"
+subtitle                 : "꾸준함은 모든 것을 이긴다!"
+name                     : "YunaSung-KR"
 description              : "코딩하는 야곱"
 url                      : "https://YunaSung.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
